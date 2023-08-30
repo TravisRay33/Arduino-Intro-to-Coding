@@ -10,7 +10,7 @@ This first lesson will familiarize you with the Arduino board and software. Your
 - LEDs
 - 330 Ohm Resistors (Orange-Orange-Brown)
 - Jumper Wires
-
+ 
 
 # Circuit Diagram
 ![Uno R4 wifi_bb](https://github.com/TravisRay33/Arduino-Intro-to-Coding/assets/140020128/e9912651-7622-40ca-9a43-cd284fb15702)
