@@ -8,7 +8,7 @@ This first lesson will familiarize you with the Arduino board and software. Your
 - Laptop Computer
 - USB connector
 - LEDs
-- 330 Ohm Resistors (Orange-Orange-Brown)
+- 220 Ohm Resistors (Red-Red-Brown)
 - Jumper Wires
  
 
