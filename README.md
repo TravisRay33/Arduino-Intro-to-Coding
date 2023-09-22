@@ -1,3 +1,6 @@
+https://go.unl.edu/arduinocoding
+![arduinocoding](https://github.com/TravisRay33/Arduino-Intro-to-Coding/assets/140020128/00d97540-4e8d-4324-84c3-eff71ec3e5a1)
+
 # Arduino - Introduction to Coding @ Nebraska Innovation Studio<br>
 The goals of these lessons are:
 1. Get familiar with the Arduino hardware
