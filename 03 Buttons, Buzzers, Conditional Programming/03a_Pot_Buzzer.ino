@@ -17,7 +17,7 @@ void setup() {
 
 
 void loop() {
-  pot_value = analogRead(POT)*2;
+  pot_value = analogRead(POT);
   Serial.print("Pot State is ");
   Serial.println(pot_value);
 
