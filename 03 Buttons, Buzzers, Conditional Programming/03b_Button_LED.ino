@@ -1,4 +1,5 @@
-//Travis Ray
+//Using Arduino Sensor Kit
+//Code modified by Travis Ray
 
 #include "Arduino_SensorKit.h"
 
