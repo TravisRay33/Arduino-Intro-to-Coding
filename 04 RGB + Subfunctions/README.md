@@ -1,19 +1,21 @@
-Circuit 03 Buttons, Buzzers, & Conditional Programming
-Overview:
-This lesson will familiarize you with the following hardware and software:
+# Circuit 04  RGB LED + Subfunctions
+
+## Overview:
+This lesson will familiarize you with the following hardware and software: 
 
 Hardware:
+- RGB LED
+- Push Buttons
 
-Shields (Arduino Sensor Kit)
-Push Buttons
-Potentiometers
-Buzzers (Piezoelectric)
+
 Software:
+- Subfunctions 
+- Conditional Statements
 
-Define & Variables
-Serial Monitor
-Conditional Statements
-Circuit #1: Sensor Kit Shield
-SnesorKit Shield
+ 
+
+# Circuit #1: Sensor Kit Shield
+
+
 
 Created by Travis Ray for use at Nebraska Innovation Studio
